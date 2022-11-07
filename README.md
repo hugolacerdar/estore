@@ -1,4 +1,5 @@
 # Estore
 
-**TODO: Add description**
+An umbrella project made to exercise the communication between services using kafka.
+
 
